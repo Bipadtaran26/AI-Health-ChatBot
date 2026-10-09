@@ -1,0 +1,14 @@
+[
+  {
+    "keyword": "fever",
+    "response": "You may have a viral infection. Drink fluids and take rest."
+  },
+  {
+    "keyword": "headache",
+    "response": "It might be due to stress or dehydration. Stay hydrated."
+  },
+  {
+    "keyword": "chest pain",
+    "response": "⚠️ This could be serious. Please visit a hospital immediately."
+  }
+]
